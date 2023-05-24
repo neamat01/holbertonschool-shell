@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#stopping the file processes
+
+kill -9 -1 4-to_infinity_beyond
