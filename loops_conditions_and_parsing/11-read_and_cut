@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#file is missing i dont know why?
+while read -r passwd; do
+        echo "$passwd" | cut -d ':' -f1,3,6
+done < "/etc/passwd"
