@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#to show the bash pid
+
+ps -aux f
