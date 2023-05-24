@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#!i dont know what is going on here 
+
+ps -auxf
