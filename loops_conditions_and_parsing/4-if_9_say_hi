@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#!if9sayhi
 i=1
 wile [ $i -le 10]
 do
