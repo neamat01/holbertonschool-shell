@@ -1,4 +1,4 @@
-#!/usr/bin/ env bash
+#!/usr/bin/env bash
 #cause i dont love you cause i dont want hey boy
 trap "echo Y U no love me?!" SIGINT
 trap "echo I hate the kill command; rm /var/run/myscript.pid; exit" SIGQUIT SIGTERM
