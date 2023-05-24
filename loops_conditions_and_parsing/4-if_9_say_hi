@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #!if9sayhi
 i=1
-wile [ $i -le 10]
+while [ $i -le 10]
 do
 if [ $i -eq 9 ]
 then 
