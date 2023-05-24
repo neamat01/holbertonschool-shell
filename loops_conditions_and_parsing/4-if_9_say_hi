@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 #!if9sayhi
 i=1
-while [ $i -le 10]
+while [ $i -le 10 ]
 do
   if [ $i -eq 9 ]
   then 
     echo "Best School"
     echo "Hi"
   else
-    echo "Besat School"
+    echo "Best School"
   fi 
   i=$((i+1))
 done
