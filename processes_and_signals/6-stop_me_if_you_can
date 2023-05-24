@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#u cant stop even if u can LOL
+
+pkill -f 4-to_infinity_and_beyond
